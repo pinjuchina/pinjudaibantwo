@@ -1,0 +1,331 @@
+{
+  "settings": {
+    "name": "NewSite-05-02_1501",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 18,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle, .btn": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "color": "#2980b9",
+              "font-size": "72px"
+            },
+            ".mbr-section-title FONT": {
+              "color": "#2980b9",
+              "font-size": "60px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "60px"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-4",
+          "_params": {
+            "buttonAlign": "right",
+            "iconsColor": "#2980b9",
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2-2000x1500.jpg",
+            "bgColor": "#8e44ad",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0",
+            "overlayColor": "#3498db",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<span style=\"line-height: 1.12em;\">代办租房</span><br><font color=\"#000000\">服务多多又贴心</font><br>",
+          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-9",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#f1c40f",
+            "showMeta": true
+          },
+          "title": "品居服务季&nbsp;为您所想",
+          "meta": "2017年5、6<b>月份增值服务项目&nbsp;</b>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-7",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#f1c40f"
+          },
+          "text": "<ul><li><span style=\"line-height: 1.85em;\"><b>代办租房</b></span><br><br><b>情景1：</b>很多业主遇到过，有朋友/同事想租自已的房子，但是总担心，怕因几十元、几百元 &nbsp; &nbsp; 的水电费，免租期谈不妥而伤和气。<br><b>         情景2：</b>很多客户遇到过，有同事的房子出租或朋友的同事有房子出租，想去租，但是也怕因为水电费交接、免租期谈不妥而伤和气。 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;不仅如此，还怕朋友、同事觉得小气等误解。<br><br><b>我们来解决这一切，公正、客观完成交易。   只需1380元/单起，，，</b><br><b>1.</b>签属专业合同; <br><b>2.</b>我们来完成水电交接、计算出各自承担费用; <br><b>3.</b>主持推进押金支付金额及时间，免租期客观建议；<br><b>4.</b>&nbsp;免费提供入住清洁、入住消毒；<br><b>5.</b>免费清洗空调挂机两台小于1.5匹（如增加一台市场价6.5折）；</li></ul><br><ul><li><b>免费赠送入住大礼包!</b></li></ul><br><ul><li><span style=\"line-height: 1.85em;\">我们还提供全新家电、家私租赁服务！</span><br>请把您的需求发送给我们。我们邮箱：<b>pinjuvip@126.com</b></li></ul><br><ul><li><b>以上服务详情请咨询品居租房运营团队！公众微信号：pinjuvip_com</b></li></ul>"
+        },
+        {
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features9",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "features9-1",
+          "_params": {
+            "blocks": "4",
+            "cardsColor": "#f2e6c6",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#8e44ad",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showDates": true
+          },
+          "mainTitle": "更多情景",
+          "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "date1": "1 邻居介绍了房子",
+          "title1": "1. 情景",
+          "text1": "房子快到期了,邻居好心帮忙介绍了房子,可是见一谈,免租期谈不妥，脾气不对，不欢而散.<br><font color=\"#000000\"><b>在不发生这一幕时，需要我们</b>！</font>",
+          "date2": "2 老同事介绍了朋友的房子",
+          "title2": "2. 情景",
+          "text2": "公司的老同事，出于关照,帮忙介绍了朋友的房,可是去见面谈了,对方表示一切不谈,按往年租金和免租期来,你谈重了觉得不妥,谈轻又不想自已吃亏&nbsp;.<br><font color=\"#000000\"><b>遇到这样一幕时，需要我们！</b></font>",
+          "date3": "3 朋友介绍了他朋友的房子",
+          "title3": "3. 情景",
+          "text3": "Lorem 朋友热心帮忙，介绍了他朋友的房过来，可是都对流程不专业，双方都怕吃亏，都比较谨慎开出自已的条件，又不好太直接反对条件，怕影响了朋友的面子.<br><font color=\"#000000\"><b>遇到这一幕之前,需要我们！</b></font>",
+          "date4": "4 小区热心大爷大妈 保安介绍",
+          "title4": "4. 常见情景",
+          "text4": "很多人遇到这样的情况时,首先会想着去网下载份合同签了,钱是省了,一旦后面出现问题,最后闹得双方都不开心，有中间人在中间沟通下，会避免直接发生矛盾和争执.<br><font color=\"#000000\">花较少的费用，提前规避问题、发生问题负责出面协调问题.</font><br><font color=\"#000000\"><b>遇到这种常见情景时, 需要我们!</b></font>",
+          "date5": "5 May 2016",
+          "title5": "5. Awesome Reports",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date6": "6 June 2016",
+          "title6": "6. Multi Homepages",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date7": "7 July 2016",
+          "title7": "7. Responsive Design",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date8": "8 August 2016",
+          "title8": "8. Smart Watch",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date9": "9 September 2016",
+          "title9": "9. Design out of the box",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date10": "10 October 2016",
+          "title10": "10. Awesome Reports",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date11": "11 November 2016",
+          "title11": "11. Design out of the box",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "date12": "12 December 2016",
+          "title12": "12. Awesome Reports",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit."
+        },
+        {
+          "_styles": {},
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call4",
+          "_anchor": "call4-f",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/09.jpg",
+            "bgColor": "#c0392b",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#bdc3c7",
+            "showTitle": true,
+            "showButtons": true
+          },
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
+          "title": "<font color=\"#000000\">品居租房</font>更多活动信息",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://pinjuchina.github.io/pinjuhuodongye/\" data-toolbar=\"-mbrBtnMove\">家电租赁</a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://pinjuchina.github.io/pinjujieshao/\" data-toolbar=\"-mbrBtnMove\">关于我们</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form5",
+          "_anchor": "form5-b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ecf0f1",
+            "showSubtitle": false,
+            "showTitle": true,
+            "showText": false,
+            "countdown": "2017/06/30"
+          },
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "服务结束倒计时",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
+          "form": {
+            "action": "xihanw@qq.com",
+            "alerts": {
+              "success": "感谢您信任品居租房网!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "您的称呼*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "您的邮箱*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "您的咨询 请详细描述"
+              }
+            }
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">确认咨询</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#f39c12"
+            },
+            "FONT": {
+              "color": "#f39c12"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-e",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "2017 &nbsp;<font color=\"#000000\">品居租房 &nbsp;&nbsp;</font>品质居家"
+        }
+      ]
+    }
+  }
+}
